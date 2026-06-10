@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-sheets-soft-night/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Velvet Sheets Soft Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-sheets-soft-night/) |
+| **Get License** | [Commercial Licensing for Velvet Sheets Soft Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-sheets-soft-night/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows dancing on the cabin wall
+> I can feel the heat before you fall
+> Into my arms, we're miles away
+> Let the moonlight steal the day
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
