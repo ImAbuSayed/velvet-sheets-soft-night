@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-sheets-soft-night/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Velvet Sheets Soft Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-sheets-soft-night/) |
+| **Get License** | [Obtain a Music License for Velvet Sheets Soft Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-sheets-soft-night/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2a46e26886a80d7a1a3c897a7d4b2a67a49ab3802900343ac3a89803c638e6db` |
 | **Timestamp** | June 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
